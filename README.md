@@ -2,7 +2,7 @@
 
 ## Section 1 - Ansible F5 Basic Exercises
 
- - [Exercise 1.0 - Access UDF](1.ex) 
+ - [Exercise 1.0 - Access UDF](1-ex) 
  - [Exercise 1.1 - Using Ansible to gather data from F5 BIG-IP](1.1-get-facts)  
  - [Exercise 1.2 - Adding nodes to F5 BIG-IP](1.2-add-node)  
  - [Exercise 1.3 - Adding a load balancing pool](1.3-add-pool)  
