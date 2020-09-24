@@ -19,6 +19,8 @@
  
    ![alt text](../../images/makefail.png)
 
+## Note :: Do Control C  to break it & follow step 5 below
+
 5. Login to AWS Console by going to UDF Blueprint –> Cloud Accounts –> Console URL
 
 6. Use the https link above `OptInRequired: In order to use this AWS Marketplace product you Error`
