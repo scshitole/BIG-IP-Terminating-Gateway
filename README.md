@@ -1,6 +1,5 @@
 # BIG-IP Terminating Gateway - Consul Connect Solution
 
-## Section 1 - Ansible F5 Basic Exercises
 
  - [Exercise 1.0 - Access UDF](1-ex) 
  - [Exercise 1.1 - Setup AWS Access Key & Secret Key](1-ex/2-ex)  

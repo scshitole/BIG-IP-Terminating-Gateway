@@ -1,4 +1,4 @@
-# How to Access UDF Blueprint
+# HSetup AWS Access Key & Secret Key
 
 
 1. Click on “Cloud Accounts” tab on the UDF Blue print
@@ -8,7 +8,7 @@
 3. Go to the ubuntu UDF Shell and configure the following
 
 ```
- aws configure`
+ aws configure
 
     AWS Access Key ID [****************CGGT]:XXXXXXXXXXXXX
 
