@@ -2,7 +2,7 @@
 
 1. Copy the Consul UI IP address from the output command
 
-2. Open a browser and issue http://Consul_ip
+2. Open a browser and issue http://Consul_ip:8500
  ![alt text](../../../../images/consul_ui.png)
 
 3. You can see that we have 5 service shown in the consul UI
