@@ -1,11 +1,28 @@
 # How to Access UDF Blueprint
 
-1. Search for Blueprint BIG-IP TGW with Consul Connect
-2. Click on the Start button Once started click Details
-3. Click on Components TAB & then click on Ubuntu --> Access --> WEB SHELL
-4. At the prompt enter ``` login udf ``` & Password ``` udf ```
 
- ![alt text](../images/less1-4.png)
+1. Click on “Cloud Accounts” tab on the UDF Blue print
 
-5. After logging in udf change directory ```cd consul-tg-env/`
+2. Copy the API Key & API Secret key
+
+3. Go to the ubuntu UDF Shell and configure the following
+
+```
+ aws configure`
+
+    AWS Access Key ID [****************CGGT]:XXXXXXXXXXXXX
+
+    AWS Secret Access Key [****************QmTY]:XXXXXXXXXXX
+```
+
+4. Change directory to `cd consul-tg-env` and execute `make all`
+ 
+   ![alt text](../../images/makefail.png)
+
+5. Login to AWS Console by going to UDF Blueprint –> Cloud Accounts –> Console URL
+
+6. Use the https link above `OptInRequired: In order to use this AWS Marketplace product you Error`
+
+7. Click on https://console.aws.amazon.com/marketplace/home?region=us-west-2#/subscriptions/U1VCU0NSSVBUSU9OQEBAOTI5Y2EwZDgtYzJkNy00MDY4LThmOWEtZWI3NWE2NzdhZmVk
+
 
