@@ -1,4 +1,4 @@
-# HSetup AWS Access Key & Secret Key
+# Setup AWS Access Key & Secret Key
 
 
 1. Click on “Cloud Accounts” tab on the UDF Blue print
@@ -24,5 +24,11 @@
 6. Use the https link above `OptInRequired: In order to use this AWS Marketplace product you Error`
 
 7. Click on https://console.aws.amazon.com/marketplace/home?region=us-west-2#/subscriptions/U1VCU0NSSVBUSU9OQEBAOTI5Y2EwZDgtYzJkNy00MDY4LThmOWEtZWI3NWE2NzdhZmVk
+
+or
+
+8. search for F5 BIG-IP Virtual Edition - BEST (PAYG, 1Gbps)
+
+9. Sunsbcribe to the trial service and Accept all terms.
 
 
