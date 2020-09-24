@@ -9,5 +9,6 @@
  - [Exercise 1.6 - Lets Enable Envoy Proxy for microapp1..part2](1-ex/2-ex/3-ex/4-ex/5-ex/6-ex/7-ex)  
  - [Exercise 1.7 - Check status of Envoy Proxy for microapp1 ](1-ex/2-ex/3-ex/4-ex/5-ex/6-ex/7-ex/8-ex)  
  - [Exercise 1.8 - Install As3 RPM on BIG-IP](1-ex/2-ex/3-ex/4-ex/5-ex/6-ex/7-ex/8-ex/9-ex)  
+ - [Exercise 1.9 - Run the Watcher Code](1-ex/2-ex/3-ex/4-ex/5-ex/6-ex/7-ex/8-ex/9-ex)  
 
 
