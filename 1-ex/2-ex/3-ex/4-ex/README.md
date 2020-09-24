@@ -24,7 +24,7 @@
 
 5. You can check all the services by issuing ```cd /home/udf/consul-tg-env/service-configs```
 
-6. All these services were created by doing `make all in lesson3
+6. All these services were created by doing ```make all``` in Exercise 1.2 
 
 7. Click on each service in the Consul UI to learn more about it
 
