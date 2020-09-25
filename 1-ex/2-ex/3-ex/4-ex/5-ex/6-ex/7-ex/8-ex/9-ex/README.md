@@ -12,4 +12,6 @@
  ![alt text](../../../../../../../../../images/as3.png)
 
 
+[GoTo Next Exercise-10](10-ex)
 
+[GoBack](../README.md)

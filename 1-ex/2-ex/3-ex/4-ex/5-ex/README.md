@@ -13,4 +13,6 @@ Note
 
 - You can see that the Envoy Side Car proxy is not working 
 
+[GoTo Next Exercise-6](6-ex)
 
+[GoBack](../README.md)

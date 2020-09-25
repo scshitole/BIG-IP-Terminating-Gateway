@@ -22,3 +22,6 @@
  ![alt text](../../../../../../images/awsmicro2.png)
  ![alt text](../../../../../../images/ubuntussh.png)
 
+[GoTo Next Exercise-7](7-ex)
+
+[GoBack](../README.md)
