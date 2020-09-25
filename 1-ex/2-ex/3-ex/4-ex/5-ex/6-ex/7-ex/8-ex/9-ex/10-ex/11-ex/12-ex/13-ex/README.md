@@ -4,7 +4,6 @@
 
 2. At the prompt enter ``` login udf ``` & Password ``` udf ```
 
- .. image:: /_static/less1-4.png
 
  ![alt text](../../../../../../../../../../../../../images/less1-4.png)
 

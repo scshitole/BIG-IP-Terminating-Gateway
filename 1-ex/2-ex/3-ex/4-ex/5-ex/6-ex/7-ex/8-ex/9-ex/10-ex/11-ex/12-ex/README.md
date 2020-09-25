@@ -13,8 +13,5 @@
 4. Click on Create --> Source as "microapp1" Destination as "app1" select Allow
 
 
- .. image:: /_static/intention.png
-
-
- ![alt text](../../../../../../../../../../../../images/intenstion.png)
+ ![alt text](../../../../../../../../../../../../images/intention.png)
 
