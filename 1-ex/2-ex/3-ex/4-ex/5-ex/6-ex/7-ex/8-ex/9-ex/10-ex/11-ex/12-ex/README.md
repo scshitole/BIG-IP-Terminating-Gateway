@@ -21,6 +21,6 @@
  ![alt text](../../../../../../../../../../../../images/intentwatch.png)
 
 
-[GoTo Next Excercise](13-ex)
+[GoTo Next Exercise](13-ex)
 
 [GoBack](../README.md)
