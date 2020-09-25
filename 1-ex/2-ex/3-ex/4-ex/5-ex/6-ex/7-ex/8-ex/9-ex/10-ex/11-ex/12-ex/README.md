@@ -15,3 +15,7 @@
 
  ![alt text](../../../../../../../../../../../../images/intention.png)
 
+5. Look at the Watcher code in the terminal, see how the certs & data groups are added.
+
+
+ ![alt text](../../../../../../../../../../../../images/intentwatch.png)
