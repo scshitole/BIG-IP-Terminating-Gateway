@@ -4,13 +4,13 @@
 
 2. Click on Services –> microapp1 –> Health Checks –> Proxy info
 
- ![alt text](../../../../../images/proxyinfo.png)
+ ![alt text](../../../../../images/proxyfail.png)
 
 
 
 
 Note
 
-- You can see that the Envoy Side Car proxy is working fine & Listening
+- You can see that the Envoy Side Car proxy is not working 
 
 
