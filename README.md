@@ -9,9 +9,9 @@
  - [Exercise 1.6 - Lets Enable Envoy Proxy for microapp1..part2](1-ex/2-ex/3-ex/4-ex/5-ex/6-ex/7-ex)  
  - [Exercise 1.7 - Check status of Envoy Proxy for microapp1 ](1-ex/2-ex/3-ex/4-ex/5-ex/6-ex/7-ex/8-ex)  
  - [Exercise 1.8 - Install As3 RPM on BIG-IP](1-ex/2-ex/3-ex/4-ex/5-ex/6-ex/7-ex/8-ex/9-ex)  
- - [Exercise 1.9 - Run the Watcher Code](1-ex/2-ex/3-ex/4-ex/5-ex/6-ex/7-ex/8-ex/9-ex)  
- - [Exercise 1.10 - Test microapp1 to app1 communication](1-ex/2-ex/3-ex/4-ex/5-ex/6-ex/7-ex/8-ex/9-ex/10-ex)  
- - [Exercise 1.11 - Configure Intentions on Consul GUI ](1-ex/2-ex/3-ex/4-ex/5-ex/6-ex/7-ex/8-ex/9-ex/10-ex/11-ex)  
- - [Exercise 1.12 -  Test End to End Communication after Intentions Configuration ](1-ex/2-ex/3-ex/4-ex/5-ex/6-ex/7-ex/8-ex/9-ex/10-ex/12-ex)  
+ - [Exercise 1.9 - Run the Watcher Code](1-ex/2-ex/3-ex/4-ex/5-ex/6-ex/7-ex/8-ex/9-ex/10-ex)  
+ - [Exercise 1.10 - Test microapp1 to app1 communication](1-ex/2-ex/3-ex/4-ex/5-ex/6-ex/7-ex/8-ex/9-ex/10-ex/11-ex)  
+ - [Exercise 1.11 - Configure Intentions on Consul GUI ](1-ex/2-ex/3-ex/4-ex/5-ex/6-ex/7-ex/8-ex/9-ex/10-ex/11-ex/12-ex)  
+ - [Exercise 1.12 -  Test End to End Communication after Intentions Configuration ](1-ex/2-ex/3-ex/4-ex/5-ex/6-ex/7-ex/8-ex/9-ex/10-ex/12-ex/13-ex)  
 
 
