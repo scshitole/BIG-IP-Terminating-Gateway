@@ -9,3 +9,5 @@
 
 5. After logging in udf change directory ```cd consul-tg-env/`
 
+[GoTo Next Excersise](2-ex)
+[GoBack](../README.md)
