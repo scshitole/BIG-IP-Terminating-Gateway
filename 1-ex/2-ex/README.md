@@ -35,4 +35,4 @@ or
 
 [GoTo Next Exercise-3](3-ex)
 
-[GoBack](../1-ex/README.md)
+[GoBack](../README.md)

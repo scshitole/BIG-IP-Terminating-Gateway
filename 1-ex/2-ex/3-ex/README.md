@@ -11,3 +11,7 @@
  ![alt text](../../../images/make3.png)
 
 3. After about 4 minutes you should have all the instances created on AWS
+
+[GoTo Next Exercise-4](4-ex)
+
+[GoBack](../README.md)
