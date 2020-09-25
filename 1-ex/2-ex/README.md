@@ -33,4 +33,6 @@ or
 
 9. Sunsbcribe to the trial service and Accept all terms.
 
+[GoTo Next Exercise-3](3-ex)
 
+[GoBack](../1-ex/README.md)
